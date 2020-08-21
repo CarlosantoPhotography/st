@@ -182,11 +182,11 @@ img::-moz-selection {
 header.masthead {
     text-align: center;
     color: #fff;
-    background-image: url(../img/header-bg.png);
+    background-image: url(https://z-m-scontent.flis5-1.fna.fbcdn.net/v/t1.0-9/118227544_2685240071719885_953415131347923081_o.jpg?_nc_cat=111&_nc_sid=730e14&_nc_eui2=AeEfLN3BjEMxJOhS3hyb_pmSFpEXbBhMu3IWkRdsGEy7clXxJYDL6w0GM9qG7utUmg-N1qIjbYxvzo1MES_-j2gg&_nc_ohc=08QSFS49JTgAX8Uknw9&_nc_ad=z-m&_nc_cid=1272&_nc_ht=z-m-scontent.flis5-1.fna&oh=a429dd1c81b03d3a585cfa3fc5d481c2&oe=5F661E5B);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
-    background-size: cover
+    background-size: cover;
 }
 
 header.masthead .intro-text {

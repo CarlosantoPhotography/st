@@ -27,8 +27,8 @@ Main components
 -------------------------------- */
 header {
   position: relative;
-  height: 160px;
-  line-height: 160px;
+  height: 350px;
+  line-height: 350px;
   text-align: center;
 }
 header h1 {
